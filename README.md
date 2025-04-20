@@ -20,15 +20,19 @@ Click here to view the live site (https://subhashkr15.github.io/watchPaglu/)
 
 🛠️ Tech Stack:
 HTML5
-
 Tailwind CSS v3+
 
 🧑‍💻 How to Use
-Clone the repository: git clone https://github.com/Subhashkr15/watchpaglu.git
+Clone the repository:
+
+git clone https://github.com/Subhashkr15/watchpaglu.git
 cd watchpaglu
 
 Open index.html in your browser (if using CDN)
-Or set up Tailwind locally and run: npm install
+Or set up Tailwind locally and run:
+
+npm install
+
 npm run dev
 
 
